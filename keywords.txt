@@ -1,0 +1,7 @@
+nstepper	KEYWORD1
+habilitar	KEYWORD2
+deshabilitar	KEYWORD2
+direccion	KEYWORD2
+adelante	KEYWORD2
+atras	KEYWORD2
+velocidad	KEYWORD2
